@@ -1,0 +1,10 @@
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\bin\Debug\StockTicker.exe
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\bin\Debug\StockTicker.pdb
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.csproj.AssemblyReference.cache
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.Properties.Resources.resources
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.csproj.GenerateResource.cache
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.exe
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.pdb
+C:\Users\Jordan\Documents\PROG Projects\StockTicker\obj\Debug\StockTicker.Form1.resources
